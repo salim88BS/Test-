@@ -1,9 +1,10 @@
 body {
-    margin: 40px auto;
-    max-width: 650px;
+  margin: 40px auto;
+  max-width: 650px;
 }
 
 
+<<<<<<< HEAD
 
 li{
     color: black;
@@ -11,21 +12,53 @@ li{
     list-style: none;
     margin: 40px 
        
+=======
+li {
+  color: #92bcea;
+  font-size: 18px;
+  font-family: cursive;
+  text-decoration: underline;
+  list-style: square;
+>>>>>>> 19ebd3fd27437dd5f2e53f4f6ee2cfe08270e78b
 }
- 
-P {
-    margin: 10px; 
-    padding: 15px;
-    border: 3px solid black 
+
+p {
+  margin: 10px;
+  padding: 30px;
+  border: 1px solid black;
 }
 
 img {
-    height: 100%;
-    width: 40%
- 
-    
+  width: 100%;
 }
 
 .red {
+  color: red;
+}
+
+.underline {
+  text-decoration: underline
+}
+
+<<<<<<< HEAD
+.red {
     color: red;
 }
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 19ebd3fd27437dd5f2e53f4f6ee2cfe08270e78b
