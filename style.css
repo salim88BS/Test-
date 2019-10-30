@@ -1,22 +1,28 @@
-body{
-/*
-    background-color: black;
-    color: white;
-    */
-    font-family: fantasy
-}  
-
-
-li {
-  color: #92bcea;
-  font-size: 18px;
-  font-family: cursive;
-  text-decoration: underline;
-  list-style: square;
+body {
+    margin: 40px auto;
+    max-width: 650px;
 }
 
-p{
-    margin: 10px;
-    padding: 30px;
-    border: 1px solid black;
+
+
+li{
+    color: black;
+    font-size: 18px; 
+    list-style: none;
+    margin: 40px 
+       
 }
+ 
+P {
+    margin: 10px; 
+    padding: 15px;
+    border: 3px solid black 
+}
+
+img {
+    height: 100%;
+    width: 40%
+ 
+    
+}
+
